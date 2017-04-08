@@ -1,0 +1,77 @@
+
+h2 {
+  font-size: 4.2rem;
+  line-height: 1.25;
+  letter-spacing: -.1rem;
+  font-weight: 300;
+}
+
+.button {
+  border-radius: 100px;
+}
+
+body {
+  font-size: 1.5em;
+  line-height: 1.6;
+  font-weight: 400;
+  font-family: "Raleway", "Helvetica", "Arial";
+  color: #222;
+}
+.hero {
+  padding: 22rem 0;
+  text-align: left;
+}
+.getHelp {
+  padding: 22rem 0;
+  text-align: center;
+}
+.phones {
+  position: relative;
+}
+
+.phone {
+  top: -16rem;
+  max-height: 615px;
+  right: 5rem;
+  position: absolute;
+  z-index: 3;
+  margin: 3rem auto -12rem;
+  display: block;
+}
+
+.section {
+  padding: 20rem 0 19rem;
+
+}
+
+.values {
+  background-image: url("../image/image.jpg");
+  background-size: cover;
+  color: white;
+  height: 190px;
+  text-align: center;
+}
+
+.value-multiplier {
+  margin-bottom: .5rem;
+  color: #11DFC7;
+}
+
+.section-description {
+  max-width: 60%;
+  margin: 0 auto 0 auto;
+  margin-bottom: 1.2rem;
+  text-align: center;
+}
+
+.categories {
+  background-image: url("../image/image.jpg");
+  background-size: cover;
+  color: white;
+  height: 240px
+}
+
+.section-heading {
+  margin-bottom: 1.2rem;
+  text-align: center;
+}
